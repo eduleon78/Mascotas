@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">tobby</string>
+    <string name="pnombre">nombre</string>
+    <string name="todo">TODO</string>
+    <string name="titulo_tarjeta">nombre mascota</string>
+    <string name="nombre_aplicacion">Petagram</string>
+</resources>
